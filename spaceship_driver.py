@@ -1,7 +1,5 @@
 ########################################################################
-# Zhili Wang                                                           #
-# CS5001                                                               #
-# Homework 5 Part 2: Spaceship                                         #                 
+# Zhili Wang                                                           #                
 #                                                                      #
 # Note: Driver of the Spaceship game program                           #
 #       * CHEAT MODE is on by default in your convenience of testing,  #
