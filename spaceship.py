@@ -1,7 +1,5 @@
 ########################################################################
-# Zhili Wang                                                           #
-# CS5001                                                               #
-# Homework 5 Part 2: Spaceship                                         #                 
+# Zhili Wang                                                           #              
 #                                                                      #
 # Note:                                                                #
 # - Some exceptions are handled in test suite and driver program!      #
